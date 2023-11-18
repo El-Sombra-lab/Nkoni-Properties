@@ -4,6 +4,8 @@
 
 Welcome to the README file for the Nkoni Properties website. This digital presence is designed to reflect the essence and vision of Nkoni Properties, a South African-based real estate development and management company.
 
+live demo:  https://nkoni.netlify.app: 
+
 ## About Nkoni Properties
 
 Nkoni Properties, established in 2021, is dedicated to transforming and uplifting communities through innovative real estate development. The company focuses on a diverse range of properties, including residential, retail, commercial, and hospitality spaces. The core vision is centered around revitalizing rural neighborhoods into modern precincts, offering high-quality living spaces and contributing to the overall well-being of the communities it serves.
