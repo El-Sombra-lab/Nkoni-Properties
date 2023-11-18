@@ -4,7 +4,7 @@
 
 Welcome to the README file for the Nkoni Properties website. This digital presence is designed to reflect the essence and vision of Nkoni Properties, a South African-based real estate development and management company.
 
-live demo:  https://nkoni.netlify.app: 
+live demo:  https://nkoni.netlify.app
 
 ## About Nkoni Properties
 
